@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="To-do List" title="To-do-List" src=".github/logo.png"  width = 25%/>
+  <img alt="To-do List" title="To-do-List" src=""  width = 25%/>
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
