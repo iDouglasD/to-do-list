@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="To-do List" title="To-do-List" src=""  width = 25%/>
+  To-do List
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -46,6 +46,6 @@ Em desenvolvimento....
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
