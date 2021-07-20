@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="To-do List" title="To-do-List" src=".github/logo.png" />
+  <img alt="To-do List" title="To-do-List" src="" />
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bibliotecas
 
--
+-   UUID
 -
 
 Utilitários
