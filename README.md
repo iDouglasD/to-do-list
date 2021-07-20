@@ -1,5 +1,5 @@
 <h1 align="center">
-  To-do List
+  <img alt="To-do List" title="To-do-List" src=".github/logo.png" />
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,8 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bibliotecas
 
--
--
+## -UUID
 
 Utilitários
 
@@ -46,6 +45,6 @@ Em desenvolvimento....
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
