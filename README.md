@@ -14,15 +14,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+-   React.js
+-   TypeScript
 -   HTML
 -   CSS
--   TypeScript
--   React.js
 
 Bibliotecas
 
 -   UUDI
--
+-   React Icons
 
 Utilitários
 
