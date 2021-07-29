@@ -42,4 +42,4 @@ A to do list, também conhecida como lista de coisas a fazer, é uma ferramenta 
 
 ## 📝 Licença
 
-## Esse projeto está sob a licença MIT.
+ Esse projeto está sob a licença MIT.
