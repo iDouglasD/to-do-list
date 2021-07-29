@@ -1,10 +1,10 @@
 <h1 align="center">
-  To-do List
+  <img alt="To do List" title="To do List" src=".github/iconReadme.png" />
+</h1>
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-icones">Ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -33,10 +33,6 @@ Utilitários
 
 A to do list, também conhecida como lista de coisas a fazer, é uma ferramenta extremamente simples, mas que pode mudar completamente a forma com a qual gerencia o seu tempo e fazer com que se torne uma pessoa muito mais produtiva, tanto em relação à vida pessoal quanto profissional.
 
-## 🔖 Layout
-
-Em desenvolvimento....
-
 ## 🏁 Icones
 
 -   :package: nova funcionalidade
@@ -46,6 +42,4 @@ Em desenvolvimento....
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
+## Esse projeto está sob a licença MIT.
