@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="To do List" title="To do List" src=".github/iconReadme.png" />
+  <img alt="To do List" title="To do List" src=".github/iconReadme.png" width= 15%/>
 </h1>
 </h1>
 <p align="center">
