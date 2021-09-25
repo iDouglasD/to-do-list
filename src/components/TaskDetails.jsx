@@ -19,7 +19,7 @@ const TaskDetails = () => {
             </div>
             <div className="task-details-container">
                 <h2> {params.taskTitle} </h2>
-                <p>lorem ipsum dolor sit amet, consectet</p>
+                <p>Para ser extraordinário é preciso ser constante!</p>
             </div>
         </>
     );
